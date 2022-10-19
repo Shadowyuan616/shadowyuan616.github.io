@@ -26,7 +26,7 @@ The Winner Takes it All
   
   <center>投喂二维码（怎么真就金钱投喂了啊！！！)</center>  
 
-  ## &emsp; 
+## &emsp; 
 
   © 2022 Shadow Y
   
