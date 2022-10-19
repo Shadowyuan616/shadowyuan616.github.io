@@ -1,5 +1,5 @@
-<center>S.G.M -> N.S.M.S -> A.Y.Y.Z -> B.U.P.T</center>
+S.G.M -> N.S.M.S -> A.Y.Y.Z -> B.U.P.T
 
 ## **这是一个刚刚登上github大陆的小白萌新**
 
-
+## **这是一个 ~~（可能非常伟大）~~ 亟待施工的毛胚房呢**
