@@ -1,6 +1,11 @@
+```markdown
+袁钰涛 学号：2022211120 班级：2022211305
+```
+
 S.G.M -> N.S.M.S -> A.Y.Y.Z -> B.U.P.T
 
 ## **YOU CAN SEE ME NOW**
+
 这是一个刚刚登上github大陆的小白萌新
 
 
@@ -22,9 +27,11 @@ The Winner Takes it All
 
 编程菜鸡，大脑对计算机行业完全空白，欢迎大佬用知识~~（或者金钱）~~投喂我
 
+<!--
   ![投喂二维码~~（怎么真就金钱投喂了啊！！！）~~](https://github.com/Shadowyuan616/shadowyuan616.github.io/blob/main/img/paylink.jpg?raw=true)
   
   <center>投喂二维码（怎么真就金钱投喂了啊！！！)</center>  
+-->
 
 ## &emsp; 
 
