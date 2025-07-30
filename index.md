@@ -1,5 +1,5 @@
 ```markdown
-Yuan Yutao@BUPT
+Yuan Yutao @BUPT
 ```
 
   © 2022 Shadow Y
